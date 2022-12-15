@@ -1,0 +1,2 @@
+# Realisation-d-une-etude-de-sante-publique
+Le projet en question porte sur l'analyse des données liées à la sous-nutrition dans le monde en 2017. Plus précisément, il s'agit de calculer la proportion de personnes en état de sous-nutrition, le nombre théorique de personnes qui pourraient être nourries en se basant sur la disponibilité alimentaire mondiale et celle des produits végétaux, ainsi que l'utilisation de la disponibilité intérieure pour l'alimentation animale, humaine et perdue. A l’aide des donnée issues de la FAO (Food Agriculture Organization)
